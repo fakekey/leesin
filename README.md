@@ -16,7 +16,7 @@ pip install pynput pystyle
 python main.py
 ```
 
-> [**Pre-build binary**](https://github.com/fakekey/nukench/releases/tag/1.0.0) for someone lazily 😎. Just run leesin.exe (_normal run_, _no need_ ~~_admin privileges_~~)
+> [**Pre-build binary**](https://github.com/fakekey/leesin/releases/tag/1.0.0) for someone lazily 😎. Just run leesin.exe (_normal run_, _no need_ ~~_admin privileges_~~)
 
 ## Demo
 
